@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.0-rc3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2af1f443cdb8cb78e1195b9b99013a6089ab35b0">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.0-rc3_24a0b44a4c983e73dda0a6083fa81035a44a1eef.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_12bf71faed2e9c3e0d4bbcfd70d7dfe4917abdac.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_2012359538afd22a8f254369143741854a0a58e8.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d0037137b57fb070acb0c16a2e97660b993413d9.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Android_SDK/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_6ea6f0941f934633b4e2015b9de2cc95e7f9042c.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="acaeec786da68e5cfc30134c36cb5645a8a0c6ba">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.0-rc3_2794cb7626e2d06d7be73550d371b58f8b9cec85.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/1.0-rc4/e29813121b3b5c70cf1cb24c1afaafa5332e089e/baseLibrary-1.0-rc4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e29813121b3b5c70cf1cb24c1afaafa5332e089e">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/DataBindingAPISample/app/build/intermediates/pre-dexed/debug/baseLibrary-1.0-rc4_3a67c4e0eed18f3bcdbadc64592ae5cd3a5ab815.jar" />
+    </item>
+
+</items>
